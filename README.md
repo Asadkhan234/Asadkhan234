@@ -1,6 +1,6 @@
 <h1 align="center">Asadullah Khan</h1>
 
-<h3 align="center">Machine Learning Engineer | Data Analyst | Computer Science Student</h3>
+<h3 align="center">Machine Learning Engineer | Data Scientist | Computer Vision & Deep Learning | Computer Science Student</h3>
 
 <p align="center">
   Building end-to-end machine learning and data analytics solutions with Python, PyTorch, and modern deployment tools.
